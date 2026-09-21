@@ -1,0 +1,3 @@
+FOO=foooo
+BAR=baaar
+BAZ=baz

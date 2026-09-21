@@ -1,0 +1,2 @@
+bar.baz=test
+foo=${bar.baz}
