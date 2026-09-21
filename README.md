@@ -231,7 +231,7 @@ reference = ${foo.bar}
 - GoDoc: <https://pkg.go.dev/github.com/aileron-projects/go-properties>
 - Examples:
   - [example_test.go](./example_test.go)
-  - autoloading: [examples/autoload/](./examples/autoload/)
+  - autoloading: [examples/autoloading/](./examples/autoloading/)
 
 ## References
 
